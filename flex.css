@@ -12,7 +12,9 @@
   margin-top: 2em;
   margin-left: 2em;
 }
-
+body{
+  background-color: antiquewhite;
+}
 /* Grid column */
 .el-1{
   display: grid;
