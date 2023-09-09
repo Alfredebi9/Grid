@@ -24,7 +24,7 @@ body{
   display: grid;
   margin: 1.25em;
   grid-template-columns: repeat(3, 1fr);
-  gap: 15px;
+  gap: 20px;
 }
 
 .gallery-img{

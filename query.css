@@ -1,0 +1,12 @@
+@media (max-width:38em) {
+
+  .flex-section{
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+  }
+
+  .gallery-section{
+    display: none;
+  }
+}
